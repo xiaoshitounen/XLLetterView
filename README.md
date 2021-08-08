@@ -3,7 +3,7 @@
 
 常用的应用场景：城市搜索的侧边栏，通讯录的侧边栏
 
-参考博客：[自定义View-XLLetterView](https://fanandjiu.com/%E8%87%AA%E5%AE%9A%E4%B9%89View-XLLetterView/#more)
+参考博客：[自定义View-XLLetterView](http://www.fanandjiu.com/article/d5674b68.html)
 
 运行效果：
 ![](https://android-1300729795.cos.ap-chengdu.myqcloud.com/project/Self_View/XLLetterView/xlletter.gif)
